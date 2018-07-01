@@ -33,7 +33,9 @@ public class Decompression {
    public String decompress(String compressedString) {
 
       // Make sure that the string is not null
-      if(compressedString.length() == 0 || compressedString.equals(null)) {
+      // Make sure that the edge cases are tested first before calling recursion
+      if(compressedString.length() == 0 || compressedString.equals(null)
+            || compressedString.charAt(0) == '0' || Character.isLetter(compressedString.charAt(0))) {
          return "Please insert valid compressed string (i.e 3[ab]c, 3[6[4[aew]d]r])";
       }
 
