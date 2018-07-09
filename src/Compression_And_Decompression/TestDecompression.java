@@ -1,4 +1,4 @@
-package compression_and_decompression;
+package Compression_And_Decompression;
 
 /**
  * Coding Challenge based upon Google's Tech Dev Guide

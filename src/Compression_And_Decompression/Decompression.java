@@ -1,4 +1,4 @@
-package compression_and_decompression;
+package Compression_And_Decompression;
 
 /**
  * This class will contain methods that will help client
