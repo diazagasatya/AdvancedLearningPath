@@ -1,4 +1,4 @@
-package Construct_Binary_Tree_From_PostOrder_PreOrder;
+package Construct_Binary_Tree_From_PostOrder_InOrder;
 
 /**
  * This class Tree node will have all of the characteristics of a binary tree
