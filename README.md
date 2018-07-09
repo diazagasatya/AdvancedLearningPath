@@ -6,5 +6,5 @@ AdvancedLearningPath/src/Compression_And_Decompression/
 Check out the full story and step-by-step here! 
 https://medium.com/@diazagasatya/my-implementation-of-tech-dev-guide-google-former-coding-interview-question-compression-and-883f68b8d5ac
 ## Chapter 2 - Construction of Binary Tree from In-Order & Post-Order Traversal
-AdvancedLearningPath/src/Construct_Binary_Tree_From_PostOrder_InOrder
+AdvancedLearningPath/src/Construct_Binary_Tree_From_PostOrder_InOrder/
 <p>One of former Microsoft interview question where it ask to construct a Binary Tree given 2 integer arrays of in-order and post-order traversal.</p>
