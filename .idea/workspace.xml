@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="383ef52c-571c-4c03-b2dc-90aeaa3bdc6b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/CheckPermutation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Arrays_and_Strings/IsUnique.java" afterPath="$PROJECT_DIR$/src/Arrays_and_Strings/IsUnique.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,77 +15,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testBinaryTreeConstruction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/testBinaryTreeConstruction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="41" lean-forward="false" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestBFSTraversal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Traversing_2D_Matrix/TestBFSTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <marker date="1531113631720" expanded="true" signature="23:40" ph=" ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstructBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/ConstructBinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="42" lean-forward="false" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsUnique.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IsUnique.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arrays_and_Strings/IsUnique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="585">
+              <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <file leaf-file-name="CheckPermutation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays_and_Strings/CheckPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="1962" column="0" lean-forward="false" selection-start-line="1962" selection-start-column="0" selection-end-line="1962" selection-end-column="0" />
+            <state relative-caret-position="434">
+              <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestTreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/TestTreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-              <folding>
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -131,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/Construct_Binary_Tree_From_PostOrder_InOrder/testBinaryTreeConstruction.java" />
         <option value="$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/ConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/Arrays_and_Strings/IsUnique.java" />
+        <option value="$PROJECT_DIR$/src/Arrays_and_Strings/CheckPermutation.java" />
       </list>
     </option>
   </component>
@@ -171,6 +117,12 @@
               <item name="AdvancedLearningPath" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AdvancedLearningPath" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdvancedLearningPath" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays_and_Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -197,7 +149,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsUnique">
+  <component name="RunManager" selected="Application.CheckPermutation">
+    <configuration name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Arrays_and_Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Arrays_and_Strings.CheckPermutation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AdvancedLearningPath" />
+      <envs />
+    </configuration>
     <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -354,18 +325,20 @@
       <module name="AdvancedLearningPath" />
       <envs />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestDecompression" />
       <item index="1" class="java.lang.String" itemvalue="Application.testBinaryTreeConstruction" />
       <item index="2" class="java.lang.String" itemvalue="Application.testEarthquake" />
       <item index="3" class="java.lang.String" itemvalue="Application.IsUnique" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CheckPermutation" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.IsUnique" />
-        <item index="1" class="java.lang.String" itemvalue="Application.testBinaryTreeConstruction" />
-        <item index="2" class="java.lang.String" itemvalue="Application.testEarthquake" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestDecompression" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.CheckPermutation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.IsUnique" />
+        <item index="2" class="java.lang.String" itemvalue="Application.testBinaryTreeConstruction" />
+        <item index="3" class="java.lang.String" itemvalue="Application.testEarthquake" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestDecompression" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531897969154</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Construct a Binary Tree &amp; Array Recursion">
+      <created>1531898182132</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1531898182132</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -437,7 +417,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29882044" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224543" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29765013" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29765013" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -527,8 +507,8 @@
         <state relative-caret-position="330">
           <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -572,8 +552,8 @@
         <state relative-caret-position="330">
           <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding>
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -671,21 +651,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/TestTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/function/ToIntFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/get_earthquake/testEarthquake.java" />
+    <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/ConstructBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="42" lean-forward="false" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -699,10 +677,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/get_earthquake/testEarthquake.java" />
     <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Traversing_2D_Matrix/TestBFSTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="461">
           <caret line="51" column="31" lean-forward="false" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding />
         </state>
@@ -710,16 +687,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/testBinaryTreeConstruction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="0">
           <caret line="60" column="41" lean-forward="false" selection-start-line="60" selection-start-column="41" selection-end-line="60" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/ConstructBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/Arrays_and_Strings/IsUnique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="42" lean-forward="false" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        <state relative-caret-position="585">
+          <caret line="39" column="44" lean-forward="true" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -732,10 +709,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays_and_Strings/IsUnique.java">
+    <entry file="file://$PROJECT_DIR$/src/Complex_Mix_Questions/Construct_Binary_Tree_From_PostOrder_InOrder/TestTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#617#618#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays_and_Strings/CheckPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
           <folding />
         </state>
       </provider>
