@@ -1,4 +1,4 @@
-package Compression_And_Decompression;
+package Complex_Mix_Questions.Compression_And_Decompression;
 
 /**
  * Coding Challenge based upon Google's Tech Dev Guide

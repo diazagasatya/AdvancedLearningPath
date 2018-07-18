@@ -1,4 +1,4 @@
-package Construct_Binary_Tree_From_PostOrder_InOrder;
+package Complex_Mix_Questions.Construct_Binary_Tree_From_PostOrder_InOrder;
 
 import java.util.Arrays;
 
@@ -63,15 +63,42 @@ public class testBinaryTreeConstruction {
        *              /    \
        *            8       17
        *          /  \     /  \
-       *         3    7   10   20
+       *         3    6   10   20
        *        / \    \      /  \
-       *       2   4    8    19   24
+       *       2   4    7    19   24
        * ================================
        */
 
+      // Expected inOrder and postOrder Traversal of second case
+      int[] secondCaseInOrder = {2,3,4,8,6,7,9,10,17,19,20,24};
+      int[] secondCasePostOrder = {2,4,3,7,6,8,10,19,24,20,17,9};
+
+      // Construct the tree here
+      ConstructBinaryTree binaryTreeTwo = new ConstructBinaryTree();
+      TestTreeNode testTwoNode = binaryTreeTwo.postAndInOrderTreeConstruction(secondCaseInOrder,secondCasePostOrder);
+
+      // Traverse the tree
+      int[] inOrderSecondCase = binaryTreeTwo.inOrder(testTwoNode);
+      int[] postOrderSecondCase = binaryTreeTwo.postOrder(testTwoNode);
+
+      // Print the results
+      for(int element : inOrderSecondCase) {
+         System.out.print(element + " ");
+      }
+      System.out.println();
+      for(int element : secondCaseInOrder) {
+         System.out.print(element + " ");
+      }
+
+      // Check if both are equal
+      if(Arrays.equals(inOrderSecondCase,secondCaseInOrder)
+            && Arrays.equals(postOrderSecondCase,secondCasePostOrder)) {
+         numberOfSuccess++;
+      }
+
       // Check the number of successful runs
-      if(numberOfSuccess == 1) {
-         System.out.println("Congratulations! You Algorithm works for all of the test cases!");
+      if(numberOfSuccess == 2) {
+         System.out.println("\n\nwCongratulations! You Algorithm works for all of the test cases!");
       } else {
          System.out.println("Unsuccessful runs, Please check your algorithm again!");
       }

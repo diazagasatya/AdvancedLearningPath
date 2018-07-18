@@ -1,4 +1,4 @@
-package Compression_And_Decompression;
+package Complex_Mix_Questions.Compression_And_Decompression;
 
 /**
  * This class will contain methods that will help client
