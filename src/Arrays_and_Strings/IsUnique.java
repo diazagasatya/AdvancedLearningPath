@@ -8,6 +8,12 @@ package Arrays_and_Strings;
  */
 public class IsUnique {
 
+   /*
+    * Check with the interviewer:
+    * 1) Is it all ASCII characters (128 alphabet characters)
+    * 2) Or is it a Unicode characters (256 characters)
+    */
+
    /**
     * This function will recursively call to check if the next char contains
     * the selected character after deleted.
@@ -15,7 +21,7 @@ public class IsUnique {
     * @return boolean
     */
    public static boolean uniqueAlgorithm(String stringUnique) {
-      if(stringUnique.length() == 0 || stringUnique == null) {
+      if(stringUnique.length() == 0 || stringUnique == null || stringUnique.length() > 128) {
          return false;
       }
       return stringUnique.length() == 1 ? true : uniqueAlgorithmHelper(stringUnique);
