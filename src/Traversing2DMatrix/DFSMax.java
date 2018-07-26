@@ -46,7 +46,7 @@ public class DFSMax {
 
    /**
     * Wrapper function to call the recursive function
-    * @param key
+    * @param key     Key Row Column
     */
    private void depthFirstSearch(int key) {
       if(!adjacentList.containsKey(key)) {
@@ -61,8 +61,8 @@ public class DFSMax {
 
    /**
     * Private function that will recursively traverse it's child
-    * @param key
-    * @param visited
+    * @param key        Key Node
+    * @param visited    Visited Node
     */
    private void depthFirstSearch(int key, HashSet<Integer> visited, int totalGold) {
       // Base condition, that if the current traverse key is already visited return
@@ -89,10 +89,7 @@ public class DFSMax {
     * @return boolean
     */
    private boolean validRowColumn(int row, int column, int max) {
-      if(row < max && column < max) {
-         return true;
-      }
-      return false;
+      return row < max && column < max;
    }
 
    /**
