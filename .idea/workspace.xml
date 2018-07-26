@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383ef52c-571c-4c03-b2dc-90aeaa3bdc6b" name="Default" comment="BFS and DFS">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Traversing2DMatrix/DFSMax.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Traversing2DMatrix/TestDFSTraversal.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Complex_Mix_Questions/Traversing_2D_Matrix/BFSMax.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Complex_Mix_Questions/Traversing_2D_Matrix/TestBFSTraversal.java" afterPath="" />
+    <list default="true" id="383ef52c-571c-4c03-b2dc-90aeaa3bdc6b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,17 +35,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDFSTraversal.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestDFSTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Traversing2DMatrix/TestDFSTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="121">
               <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Graphs.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Graphs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Trees_And_Graphs/DFS_and_BFS/Graphs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -505,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532070563616</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="DFS for 2D Matrix">
+      <created>1532594833262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532594833262</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -520,7 +523,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29882044" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3220339" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21382008" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21382008" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -574,7 +577,8 @@
     <MESSAGE value="Construct a Binary Tree &amp; Array Recursion" />
     <MESSAGE value="Check Permutation of Two Strings" />
     <MESSAGE value="BFS and DFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="BFS and DFS" />
+    <MESSAGE value="DFS for 2D Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS for 2D Matrix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -879,14 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Trees_And_Graphs/DFS_and_BFS/Graphs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Traversing2DMatrix/DFSMax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
@@ -908,8 +904,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Traversing2DMatrix/TestDFSTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="121">
           <caret line="22" column="70" lean-forward="false" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trees_And_Graphs/DFS_and_BFS/Graphs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="147" column="17" lean-forward="false" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
           <folding />
         </state>
       </provider>
