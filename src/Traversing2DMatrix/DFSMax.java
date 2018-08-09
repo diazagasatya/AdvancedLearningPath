@@ -1,5 +1,7 @@
 package Traversing2DMatrix;
 
+import com.sun.xml.internal.ws.api.message.ExceptionHasMessage;
+
 import java.util.*;
 
 public class DFSMax {
@@ -21,10 +23,10 @@ public class DFSMax {
     * @param row        Starting Row
     * @param column     Starting Column
     */
-   public void dfsMax(int[][] graph, int row, int column) {
+   public void dfsMax(int[][] graph, int row, int column) throws Exception{
       // Make sure that row and column are valid
       if(!validRowColumn(row, column, graph.length)) {
-         return;
+         throw  new Exception();
       }
       // Represent the graph into an adjacency list
       adjacentListGraph(graph);
@@ -33,6 +35,9 @@ public class DFSMax {
       // Do the Depth First Search Here
       int key = Integer.parseInt(row + "" + column);
       depthFirstSearch(key);
+      // Check if the graph contains the source position
+      if(!adjacentList.containsKey(Integer.parseInt(row + "" + column)))
+         throw new Exception();
 
       // Print the list of total gold can be achieved
       System.out.println("=================================================");
@@ -95,7 +100,7 @@ public class DFSMax {
    /**
     * This function will check if the node able to move
     * up, down, left or right. If so add those nodes
-    * to the adjacent (childrens list) of the node.
+    * to the adjacent (children list) of the node.
     */
    private void addChildrenToNodes() {
       // Iterate to all of the nodes in the adjacentList

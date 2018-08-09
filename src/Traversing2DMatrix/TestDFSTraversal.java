@@ -40,6 +40,10 @@ public class TestDFSTraversal {
       System.out.print("Column = ");
       int column = userInput.nextInt();
 
-      depthFirstSearch.dfsMax(graph, row, column);
+      try {
+         depthFirstSearch.dfsMax(graph, row, column);
+      } catch (Exception e) {
+         System.out.println("Please insert a valid source destination");
+      }
    }
 }
